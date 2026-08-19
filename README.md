@@ -1,3 +1,4 @@
+<img width="1000" height="260" alt="WhatsApp Image 2026-08-19 at 3 59 33 PM" src="https://github.com/user-attachments/assets/01eb20fd-1224-4317-90e6-58ee7f0302a9" />
 <!-- ==================================================================== -->
 <!--  SETUP                                                               -->
 <!--  1. Rename this file to  README.md                                   -->
