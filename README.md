@@ -1,3 +1,4 @@
+<img width="2172" height="724" alt="ChatGPT Image Aug 19, 2026, 04_12_24 PM" src="https://github.com/user-attachments/assets/9e568daf-191b-4cd9-8fd6-56d5bcc66488" />
 <!-- ==================================================================== -->
 <!--  SETUP                                                               -->
 <!--  1. Rename this file to  README.md                                   -->
@@ -214,29 +215,6 @@ SEO & Analytics     ███████████████░░░░░
 
 ---
 
-## GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=>>>GITHUB-USERNAME<<<&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=ff00ff&text_color=00ffff&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=>>>GITHUB-USERNAME<<<&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00ffff&cache_seconds=86400" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=>>>GITHUB-USERNAME<<<&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=ff00ff&currStreakLabel=00ffff&sideLabels=00ffff&dates=888888&currStreakNum=00ffff&sideNums=00ffff" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=>>>GITHUB-USERNAME<<<&bg_color=000000&color=00ffff&line=00ff41&point=ff00ff&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -271,5 +249,3 @@ SEO & Analytics     ███████████████░░░░░
 <!--    5. Replace "github-readme-stats.vercel.app" above with your own    -->
 <!--       <project>.vercel.app domain                                     -->
 <!-- ==================================================================== -->
-<img width="2172" height="724" alt="ChatGPT Image Aug 19, 2026, 04_12_24 PM" src="https://github.com/user-attachments/assets/fc475905-a00d-4a00-811c-8fcaf3ed0616" />
-<img width="2172" height="724" alt="ChatGPT Image Aug 19, 2026, 04_12_24 PM" src="https://github.com/user-attachments/assets/822a7f87-cce7-4870-888b-c1fc7d60ce0d" />
