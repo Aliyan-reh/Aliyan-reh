@@ -1,4 +1,3 @@
-<img width="1000" height="260" alt="WhatsApp Image 2026-08-19 at 3 59 33 PM" src="https://github.com/user-attachments/assets/01eb20fd-1224-4317-90e6-58ee7f0302a9" />
 <!-- ==================================================================== -->
 <!--  SETUP                                                               -->
 <!--  1. Rename this file to  README.md                                   -->
@@ -174,13 +173,13 @@ My work sits at the intersection of **modern frontend engineering and applied AI
 
 ```
 Prompt Engineering  ████████████████████░░░  88%
-React.js            ███████████████████░░░░  84%
-Tailwind CSS        ████████████████████░░░  87%
+React.js            ███████████████████░░░░  75%
+Tailwind CSS        ███████████████████░░░   87%
 Next.js             ██████████████████░░░░░  80%
-JavaScript          ██████████████████░░░░░  80%
+JavaScript          ███████████████░░░░░    70%
 LLM Integration     ██████████████████░░░░░  78%
 Supabase            ████████████████░░░░░░░  72%
-SEO & Analytics     ███████████████░░░░░░░░  70%
+SEO & Analytics     ███████████████░░░░░░░░  60%
 ```
 
 ---
@@ -272,3 +271,5 @@ SEO & Analytics     ███████████████░░░░░
 <!--    5. Replace "github-readme-stats.vercel.app" above with your own    -->
 <!--       <project>.vercel.app domain                                     -->
 <!-- ==================================================================== -->
+<img width="2172" height="724" alt="ChatGPT Image Aug 19, 2026, 04_12_24 PM" src="https://github.com/user-attachments/assets/fc475905-a00d-4a00-811c-8fcaf3ed0616" />
+<img width="2172" height="724" alt="ChatGPT Image Aug 19, 2026, 04_12_24 PM" src="https://github.com/user-attachments/assets/822a7f87-cce7-4870-888b-c1fc7d60ce0d" />
